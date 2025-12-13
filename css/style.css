@@ -11,8 +11,8 @@ body {
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
-  padding: 2px;
-  border-radius: 2px;
+  padding: 5px;
+  border-radius: 5px;
 }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 0.9em; }
@@ -25,7 +25,7 @@ hr {
 /* code */
 pre {
   border: 1px solid #ddd;
-  box-shadow: 5px 5px 5px #eee;
+  box-shadow: 3px 3px 3px #eee;
   padding: 1em;
   overflow-x: auto;
 }
